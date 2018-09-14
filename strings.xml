@@ -270,5 +270,6 @@
     <string name="filter_vcode">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="id_card_number">0123456789xX</string>
 
+
     <string name="downloaded">&#160;%s %%</string>
 </resources>
