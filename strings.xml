@@ -1,4 +1,5 @@
 <resources>
+    <string name="test">测试提交KB</string>
     <string name="app_name">骋风快运</string>
     <string name="appname">骋风快运司机端</string>
     <string name="waiting">请稍候  </string>
